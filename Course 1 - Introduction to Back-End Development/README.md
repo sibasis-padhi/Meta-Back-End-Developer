@@ -6,4 +6,4 @@
 
 ## Proof of Completion
 
-<img src="./certificate.png" width=800>
+<img src="./Introduction_to_backend_development.jpg" width=800>
