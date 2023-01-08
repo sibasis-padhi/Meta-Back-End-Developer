@@ -12,3 +12,13 @@ for idx, num in enumerate(num_list):
         break
 
 print(count)
+
+# count = 0
+
+# for x,num in enumerate(num_list):
+#     count += 1
+#     if num == 36:
+#         print('Number found at ', x)
+#         break
+
+# print(count)
