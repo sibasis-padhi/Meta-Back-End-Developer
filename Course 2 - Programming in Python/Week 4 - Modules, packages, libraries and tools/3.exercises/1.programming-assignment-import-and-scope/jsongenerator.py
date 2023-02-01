@@ -45,6 +45,8 @@ def write_json_to_file(json_obj, output_file):
     newfile = open(output_file, 'w')
     newfile.write(str(json_obj))
     newfile.close()
+    raise NotImplementedError()
+
 
 def main():
     # Print the contents of details() -- This should print the details of an employee
